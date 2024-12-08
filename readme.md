@@ -4,25 +4,29 @@
 
 ## 🚀 Acerca de
 
-Este repositorio reúne diversas prácticas, proyectos y ejemplos de cómo transformar datos crudos en información valiosa a través de **análisis profundo** y **visualizaciones interactivas**. Utilizamos herramientas avanzadas de BI como Power BI, Tableau, y SQL, y exploramos metodologías que permiten mejorar la comprensión de los datos, optimizando procesos y facilitando la toma de decisiones en diversos sectores.
+Este repositorio reúne diversas prácticas, proyectos y ejemplos de cómo transformar datos crudos en información valiosa a través de **análisis profundo** y **visualizaciones interactivas**. Utilizo herramientas avanzadas de BI como Power BI, Tableau, y SQL, y exploro metodologías que permiten mejorar la comprensión de los datos, optimizando procesos y facilitando la toma de decisiones en diversos sectores.
 
 ## 🗂️ Contenido del Repositorio
 
 ### 1. **Dashboards Interactivos**
-   - 📈 **Descripción:** Dashboards dinámicos que permiten explorar los datos de manera interactiva, facilitando el análisis en tiempo real y la toma de decisiones basadas en visualizaciones efectivas.
-   - 🔧 **Herramientas Utilizadas:** Power BI, Tableau, SQL
+
+- 📈 **Descripción:** Dashboards dinámicos que permiten explorar los datos de manera interactiva, facilitando el análisis en tiempo real y la toma de decisiones basadas en visualizaciones efectivas.
+- 🔧 **Herramientas Utilizadas:** Power BI, Tableau, SQL
 
 ### 2. **Análisis de Datos**
-   - 📊 **Descripción:** Análisis detallados utilizando técnicas avanzadas de BI, desde la preparación y limpieza de datos hasta el análisis exploratorio, para obtener insights significativos.
-   - 🛠️ **Herramientas Utilizadas:** Power BI, Tableau, SQL
+
+- 📊 **Descripción:** Análisis detallados utilizando técnicas avanzadas de BI, desde la preparación y limpieza de datos hasta el análisis exploratorio, para obtener insights significativos.
+- 🛠️ **Herramientas Utilizadas:** Power BI, Tableau, SQL
 
 ### 3. **Automatización de Reportes**
-   - 💹 **Descripción:** Soluciones para la automatización de reportes financieros, operativos y de rendimiento, asegurando una distribución eficiente y precisa de la información.
-   - ⚙️ **Herramientas Utilizadas:** Power BI, Tableau, SQL
+
+- 💹 **Descripción:** Soluciones para la automatización de reportes financieros, operativos y de rendimiento, asegurando una distribución eficiente y precisa de la información.
+- ⚙️ **Herramientas Utilizadas:** Power BI, Tableau, SQL
 
 ### 4. **Visualización de Datos**
-   - 🌟 **Descripción:** Gráficos y visualizaciones interactivas que destacan patrones, tendencias clave y comparaciones significativas, ayudando a comprender el panorama completo de los datos.
-   - 🎨 **Herramientas Utilizadas:** Power BI, Tableau, SQL
+
+- 🌟 **Descripción:** Gráficos y visualizaciones interactivas que destacan patrones, tendencias clave y comparaciones significativas, ayudando a comprender el panorama completo de los datos.
+- 🎨 **Herramientas Utilizadas:** Power BI, Tableau, SQL
 
 ## 🌟 Características Destacadas
 
@@ -34,7 +38,7 @@ Este repositorio reúne diversas prácticas, proyectos y ejemplos de cómo trans
 
 ## 🛠️ Herramientas Utilizadas
 
-En este repositorio, empleamos una serie de herramientas poderosas para trabajar con datos y generar visualizaciones efectivas:
+En este repositorio, empleo una serie de herramientas poderosas para trabajar con datos y generar visualizaciones efectivas:
 
 - **Power BI:** Plataforma líder para la creación de dashboards interactivos y visualizaciones de datos. Utilizada para diseñar informes interactivos y realizar análisis profundos.
 - **Tableau:** Herramienta de visualización avanzada que permite crear gráficos interactivos y análisis de datos a través de su interfaz intuitiva y potente.
