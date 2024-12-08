@@ -36,13 +36,6 @@ Este repositorio reúne diversas prácticas, proyectos y ejemplos de cómo trans
 
 - **Excelencia Técnica:** Aplicación de las mejores prácticas en análisis y visualización de datos para garantizar precisión, claridad y una interpretación efectiva de los resultados.
 
-## 🛠️ Herramientas Utilizadas
-
-En este repositorio, empleo una serie de herramientas poderosas para trabajar con datos y generar visualizaciones efectivas:
-
-- **Power BI:** Plataforma líder para la creación de dashboards interactivos y visualizaciones de datos. Utilizada para diseñar informes interactivos y realizar análisis profundos.
-- **Tableau:** Herramienta de visualización avanzada que permite crear gráficos interactivos y análisis de datos a través de su interfaz intuitiva y potente.
-- **SQL:** Lenguaje utilizado para manipular y consultar bases de datos, facilitando el análisis de grandes volúmenes de datos a través de consultas eficientes.
 
 ## 📘 Documentación
 
