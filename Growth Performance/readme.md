@@ -4,6 +4,24 @@
 > 🔍 Un proyecto real de **Data Analysis** aplicado a ventas en apps (Pedidos Ya, Rappi).  
 > 📊 Dashboard interactivo en **Power BI** con detección de anomalías, alertas y recomendaciones.  
 > 🚀 Diseñado para cumplir con los 17 objetivos de un Data Analyst .
+---
+
+## 📖 Introducción: El Caso del Rendimiento Operativo y Digital
+
+En junio de 2025, un cliente con **4 marcas y 4 sucursales en Argentina** enfrentaba un desafío crítico:  
+> *"¿Por qué una de nuestras marcas no crece, a pesar de tener buena disponibilidad y operación?"*
+
+Entré como **Data Analyst Jr** para responder esta pregunta. Con un archivo Excel lleno de métricas por marca, sucursal, app y mes, mi misión fue clara:  
+**Transformar datos en insights, automatizar el reporting y construir un dashboard que no solo muestre números, sino que revele oportunidades ocultas.**
+
+Este proyecto no es solo un ejercicio técnico.  
+Es una **herramienta de crecimiento** que:
+- Detecta desvíos en tiempo real
+- Automatiza el seguimiento de OKRs
+- Genera alertas inteligentes
+- Guía la toma de decisiones con precisión
+
+Y todo esto, en un solo dashboard en **Power BI**.
 
 ---
 
