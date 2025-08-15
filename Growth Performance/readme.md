@@ -1,4 +1,4 @@
-# 🌶️ Dashboard de Growth Performance - Data Analyst Jr  
+# 🌶️ Dashboard de Growth Performance  
 **Análisis de datos, insights y automatización para una cadena de restaurantes en Argentina**
 
 > 🔍 Un proyecto real de **Data Analysis** aplicado a ventas en apps (Pedidos Ya, Rappi).  
