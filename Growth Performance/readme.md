@@ -7,37 +7,6 @@
 
 ---
 
-## 🌶️ Introducción: El Caso del Rendimiento en las Apps
-
-Todo comenzó con una alerta: *"¿Por qué MARCA D no convierte en Rappi Turbo?"*
-
-Era junio de 2025, y un cliente con **4 marcas y 4 sucursales en Argentina** notó que, a pesar de mantener una operación limpia y una disponibilidad casi perfecta, **una de sus marcas no crecía**. Las ventas estaban estancadas, el tráfico no se convertía y, en algunas apps, el NPS había caído por debajo de 4.0.
-
-Entré como **Data Analyst** con una misión clara:  
-🔍 **Analizar el histórico, entender qué pasó en junio y armar un dashboard que no solo muestre datos, sino que revele historias ocultas.**
-
-Con un archivo Excel lleno de métricas —visitas, conversión, órdenes, NPS, tiempo de preparación— me sumergí en los números. Lo que encontré no fue un problema operativo, sino un **rompecabezas de comportamientos, algoritmos y oportunidades perdidas**.
-
-Descubrí que:
-- **MARCA D** tenía una conversión del **3.1%** en Rappi Turbo, mientras que el estándar del sector era del 8%.
-- **MARCA C** en Recoleta mostraba un **NPS de 3.78** en Rappi Turbo: un número peligroso.
-- Y aunque **MARCA A** brillaba con ventas de más de $80M, había señales de saturación en algunas sucursales.
-
-Este proyecto no se trata solo de gráficos y KPIs.  
-Se trata de **convertir datos en decisiones**.  
-De **automatizar el reporting** para que el equipo de Growth no pierda tiempo en hojas de cálculo.  
-De **generar insights semanales** que detecten anomalías antes de que se conviertan en crisis.
-
-Este dashboard es la herramienta que necesitaban:  
-✅ Automatizado  
-✅ Acciónable  
-✅ Con alarmas inteligentes  
-✅ Y listo para escalar a otros países.
-
-Bienvenidos al análisis que transformó el caos en claridad.
-
----
-
 ## 🎯 Objetivo del Proyecto
 
 Crear un **dashboard ejecutivo de alto impacto** que permita:
@@ -105,21 +74,6 @@ Crear un **dashboard ejecutivo de alto impacto** que permita:
 | 16 | Pipeline de Sales | ✅ | Wons y churn por país |
 | 17 | Wons y churn | ✅ | Detección de riesgo (MARCA D) |
 
----
-
-## 📥 ¿Cómo usar este proyecto?
-
-### Para Data Analysts
-- Usa este dashboard como **plantilla** para clientes de foodtech.
-- Adapta las métricas a otros países o marcas.
-
-### Para Growth Managers
-- Revisa el **panel de alertas** semanalmente.
-- Actúa rápido en **anomalías detectadas**.
-
-### Para Directivos
-- Presenta este dashboard en reuniones ejecutivas.
-- Usa los **insights** para tomar decisiones estratégicas.
 
 ---
 
