@@ -88,4 +88,3 @@ Crear un **dashboard ejecutivo de alto impacto** que permita:
 ---
 
 > ✨ **Este proyecto demuestra cómo el análisis de datos impulsa el crecimiento real.**  
-> 💼 Ideal para portafolio, entrevistas o presentaciones ejecutivas.
