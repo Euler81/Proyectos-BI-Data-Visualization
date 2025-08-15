@@ -45,16 +45,6 @@ Crear un **dashboard ejecutivo de alto impacto** que permita:
   - `Órdenes con Demora (%)`, `Tiempo de Preparación`
 - **Segmentación**: Marca, Sucursal, App (Pedidos Ya, Rappi, Rappi Turbo)
 
-
----
-
-## 📈 Dashboard Power BI – Vista Final
-
-![Dashboard Preview](Dashboard_Analista_Jr_Argentina.png)
-
-> 💡 **Diseño 16:9** – Optimizado para presentaciones ejecutivas y pantallas verticales.
-
-
 ---
 
 ## 🛠️ Herramientas Utilizadas
@@ -66,7 +56,6 @@ Crear un **dashboard ejecutivo de alto impacto** que permita:
 | **DAX** | Medidas para KPIs, alertas y análisis |
 | **JSON Themes** | Paleta de colores profesional |
 | **Power Automate** | Alertas automáticas por email (futuro) |
-
 
 ---
 
@@ -91,7 +80,6 @@ Crear un **dashboard ejecutivo de alto impacto** que permita:
 | 15 | Cumplimiento proyectos | ✅ | Filtros por cuenta |
 | 16 | Pipeline de Sales | ✅ | Wons y churn por país |
 | 17 | Wons y churn | ✅ | Detección de riesgo (MARCA D) |
-
 
 ---
 
