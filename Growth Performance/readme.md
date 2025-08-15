@@ -58,16 +58,6 @@ Crear un **dashboard ejecutivo de alto impacto** que permita:
   - `Órdenes con Demora (%)`, `Tiempo de Preparación`
 - **Segmentación**: Marca, Sucursal, App (Pedidos Ya, Rappi, Rappi Turbo)
 
----
-
-## 🧠 Insights Clave Detectados
-
-| Hallazgo | Impacto | Acción Recomendada |
-|--------|--------|-------------------|
-| 🔴 **MARCA D tiene conversión < 5%** | Riesgo de pérdida de tráfico | Diagnóstico operativo + UX app |
-| 🔴 **NPS < 4.0 en Rappi Turbo (MARCA C)** | Clientes insatisfechos | Investigar reclamos y calidad |
-| 🟡 **Datos faltantes en jul 2025** | Riesgo de reporting incompleto | Validar carga de datos diaria |
-| 🟢 **MARCA A lidera en ventas y conversión** | Modelo a escalar | Replicar estrategia en otras marcas |
 
 ---
 
@@ -77,14 +67,6 @@ Crear un **dashboard ejecutivo de alto impacto** que permita:
 
 > 💡 **Diseño 16:9** – Optimizado para presentaciones ejecutivas y pantallas verticales.
 
-### 🔹 KPIs Principales
-| KPI | Valor (Jun 2025) |
-|-----|------------------|
-| **Ventas Totales** | $280.5M |
-| **Órdenes Totales** | 14,200 |
-| **Conversión Media** | 12.4% |
-| **NPS Promedio** | 4.44 |
-| **Recompra Media** | 65.8% |
 
 ---
 
@@ -98,23 +80,6 @@ Crear un **dashboard ejecutivo de alto impacto** que permita:
 | **JSON Themes** | Paleta de colores profesional |
 | **Power Automate** | Alertas automáticas por email (futuro) |
 
----
-
-
-
-## 📊 Análisis de Métricas
-
-### 🔹 ¿Qué está fuera de rango?
-| Métrica | Valor | Umbral Normal | Desviación |
-|--------|-------|---------------|-----------|
-| MARCA D – Conversión | 3.1% | >8% | -61% |
-| MARCA C – NPS (Rappi Turbo) | 3.33 | >4.5 | -26% |
-| MARCA D – Órdenes (Recoleta) | 80 | >200 | -60% |
-
-### 🔹 Posibles causas
-- **Competencia**: Otras marcas con promociones agresivas.
-- **Cambios en algoritmo**: Rappi Turbo prioriza otros restaurantes.
-- **Problemas operativos**: Tiempo de prep alto en Urquiza.
 
 ---
 
