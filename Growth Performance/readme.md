@@ -11,7 +11,7 @@
 En junio de 2025, un cliente con **4 marcas y 4 sucursales en Argentina** enfrentaba un desafío crítico:  
 > *"¿Por qué una de nuestras marcas no crece, a pesar de tener buena disponibilidad y operación?"*
 
-Entré como **Data Analyst Jr** para responder esta pregunta. Con un archivo Excel lleno de métricas por marca, sucursal, app y mes, mi misión fue clara:  
+Entré como **Data Analyst** para responder esta pregunta. Con un archivo Excel lleno de métricas por marca, sucursal, app y mes, mi misión fue clara:  
 **Transformar datos en insights, automatizar el reporting y construir un dashboard que no solo muestre números, sino que revele oportunidades ocultas.**
 
 Este proyecto no es solo un ejercicio técnico.  
