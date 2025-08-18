@@ -1,4 +1,4 @@
-# 📊🌶️ Ejercicio Data Analyst – Análisis de Datos y Dashboard Power BI  
+# 📊🌶️ Análisis de Datos y Dashboard Power BI  
 
 ---
 
